@@ -1,16 +1,16 @@
-# Machine Learning Projects Portfolio
+# Independent Machine Learning Projects 
 
 This repository contains a collection of three independent machine learning projects developed by me. Each project demonstrates different ML techniques and applications.
 
 ## Projects Overview
 
-### 1. Emoji Localization and Identification (Jul'22-Aug'22)
+### 1. Emoji Localization and Identification 
 A Convolutional Neural Network (CNN) approach to both classify and locate emojis within images.
 
-### 2. Twitter Sentiment Analysis (Jan'22-Mar'22)
+### 2. Twitter Sentiment Analysis 
 A Natural Language Processing (NLP) project using Naive Bayes classification to determine sentiment in tweets.
 
-### 3. Book Recommender System (Oct'21-Nov'21)
+### 3. Book Recommender System 
 A recommendation system using collaborative filtering techniques to suggest books based on user preferences.
 
 ## Detailed Project Descriptions
@@ -32,7 +32,7 @@ This project combines image classification with object localization to identify 
 - Demonstrated balance between computational efficiency and accuracy
 
 ### Usage
-Refer to the `emoji_localization.ipynb` notebook for implementation details, model training, and evaluation.
+Refer to the `emoji_localization_and_classification.ipynb` notebook for implementation details, model training, and evaluation.
 
 ---
 
@@ -58,6 +58,7 @@ See the `twitter_sentiment_analysis.ipynb` notebook for the complete implementat
 
 ---
 
+
 ## Book Recommender System
 
 ### Overview
@@ -81,7 +82,7 @@ This system provides significant utility to e-book platforms and online librarie
 - Enhancing user experience and satisfaction
 
 ### Usage
-Explore the `book_recommender.ipynb` notebook for implementation details, including data preparation, model development, and recommendation generation examples.
+Explore the `book_recommender_system.ipynb` notebook for implementation details, including data preparation, model development, and recommendation generation examples.
 
 ---
 
@@ -89,22 +90,22 @@ Explore the `book_recommender.ipynb` notebook for implementation details, includ
 
 ```
 machine-learning-projects/
-├── emoji_localization.ipynb
+├── emoji_localization_and_classification.ipynb
 ├── twitter_sentiment_analysis.ipynb
-├── book_recommender.ipynb
+├── book_recommender_system.ipynb
 └── README.md
 ```
 
 ## Requirements
 
-- Python 3.7+
-- TensorFlow 2.x
+- Python 
+- TensorFlow 
 - scikit-learn
 - NLTK
 - pandas
 - numpy
 - matplotlib
-- Jupyter Notebook
+- Jupyter Notebook / Google Colab
 
 Detailed requirements for each project are specified in their respective notebooks.
 
